@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-boilerplate",
+  "name": "goit-react-hw-02-feedback",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://akunadjvili.github.io/goit-react-boilerplate",
+  "homepage": "https://akunadjvili.github.io/goit-react-hw-02-feedback",
   "author": "Volodymyr Davydenko <akunadjvili@gmail.com>",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
