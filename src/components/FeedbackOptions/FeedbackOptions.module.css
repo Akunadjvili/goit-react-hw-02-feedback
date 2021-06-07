@@ -1,0 +1,17 @@
+.FeedbackOptions {
+  margin-bottom: 15px;
+}
+.FeedbackOptions__button {
+  text-transform: capitalize;
+  border-radius: 5px;
+  border: 1px solid lightslategray;
+  outline: none;
+  background-color: transparent;
+}
+.FeedbackOptions__button:active {
+  background-color: #4794fd;
+}
+
+.FeedbackOptions__button:not(:last-child) {
+  margin-right: 5px;
+}

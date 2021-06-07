@@ -1,0 +1,13 @@
+.Statistic {
+}
+.Statistic__title {
+  margin-bottom: 20px;
+}
+.Statistic__data {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.Statistic__item:not(:last-child) {
+  margin-bottom: 10px;
+}

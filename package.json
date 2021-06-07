@@ -20,7 +20,10 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "presave": "git add .",
+    "save": "git commit -m 'update'",
+    "postsave": "git push"
   },
   "eslintConfig": {
     "extends": [
